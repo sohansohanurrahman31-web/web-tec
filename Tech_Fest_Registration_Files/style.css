@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 00px;
+}
+
+h1 {
+    color: red;
+}
+
+input {
+    padding: 6px;
+    margin: 4px;
+}
+
+button {
+	background-color: green;
+	color:white;
+    padding: 8px 15px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+#summary {
+    margin: 15px 0;
+    line-height: 1.8;
+}
